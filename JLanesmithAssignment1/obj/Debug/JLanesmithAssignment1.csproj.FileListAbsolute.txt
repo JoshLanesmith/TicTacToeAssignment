@@ -1,0 +1,11 @@
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\bin\Debug\JLanesmithAssignment1.exe.config
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\bin\Debug\JLanesmithAssignment1.exe
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\bin\Debug\JLanesmithAssignment1.pdb
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.csproj.AssemblyReference.cache
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.TicTacToeForm.resources
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.Properties.Resources.resources
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.csproj.GenerateResource.cache
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.csproj.CoreCompileInputs.cache
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.exe
+C:\c#programs\game-prog\JLanesmithAssignment1\JLanesmithAssignment1\obj\Debug\JLanesmithAssignment1.pdb
