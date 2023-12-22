@@ -26,10 +26,10 @@ C# using Windows Forms App (.NET Framework)
 
 <!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
 <p align="left">
-<a href="https://www.linkedin.com/in/miles-purvis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josh-lanesmith-7296441b7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josh-lanesmith-7296441b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josh-lanesmith-7296441b7/" height="30" width="40" /></a>
 </p>
 
 ## Images from the project :camera_flash:
 
-![GamePlay](TicTacToe.JPG)
-![Win](TicTacToeWIN.JPG)
+<img src="https://github.com/JoshLanesmith/TicTacToeAssignment/blob/assets/TicTacToe.JPG" alt="GamePlay" width="400" height="301"/>
+<img src="https://github.com/JoshLanesmith/TicTacToeAssignment/blob/assets/TicTacToeWIN.JPG" alt="WinScreen" width="400" height="301"/>
